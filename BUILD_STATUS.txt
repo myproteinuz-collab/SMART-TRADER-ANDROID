@@ -1,0 +1,9 @@
+SMART TRADER Android 0.4.0-dev — BUILD STATUS
+
+Pure Kotlin core verification: 24 checks PASSED.
+Futures API Kotlin syntax check (local org.json stubs): PASSED.
+Android Gradle build: NOT RUN (Gradle and Android SDK unavailable in this environment).
+APK: NOT BUILT.
+MEXC Futures order API live test: NOT RUN (MEXC has no sandbox; no real order has been sent).
+Spot live execution: DISABLED pending verified server-side SL/TP/OCO API workflow.
+Real Trading UI: LOCKED.
